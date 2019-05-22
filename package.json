@@ -1,0 +1,19 @@
+{
+  "name": "learn-mern-stack",
+  "version": "1.0.0",
+  "description": "Shooping list build with the MERN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariorizki/learn-mern-stack.git"
+  },
+  "author": "Mario Rizki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariorizki/learn-mern-stack/issues"
+  },
+  "homepage": "https://github.com/mariorizki/learn-mern-stack#readme"
+}
